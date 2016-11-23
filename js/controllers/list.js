@@ -29,7 +29,7 @@
 		{
 			// this'd work just fine
 			//this.quizMetrics.quizActive = true;
-			quizMetrics.changeState(true);
+			quizMetrics.changeState("quiz", true);
 		}
 	}
 
